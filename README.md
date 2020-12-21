@@ -3,7 +3,7 @@
 ## Dependencies
 
 1- Python 3.6; 
-2- Tensorflow
+2- Tensorflow;
 3-Scikit Learn
 
 ## Usage
