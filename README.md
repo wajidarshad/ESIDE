@@ -4,8 +4,9 @@
 
 1- Python 3.6; 
 2- Tensorflow;
-3-Scikit Learn
+3- Scikit Learn;
+4- DenseNet121 CNN based pretrained model
 
-## Usage
+## How to use?
 Please see eside_with_weights.py.
 
