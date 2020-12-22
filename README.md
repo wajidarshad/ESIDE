@@ -8,5 +8,5 @@
 4- DenseNet121 CNN based pretrained model
 
 ## How to use?
-Please see eside_with_weights.py.
-
+Please see eside_with_weights.py. (For its webserver please visit https://eside.pythonanywhere.com/ )
+ 
